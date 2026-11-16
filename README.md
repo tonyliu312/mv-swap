@@ -97,4 +97,4 @@ python mvswap.py assemble jobs/<任务名>   # 只重新拼片和出报告
 
 代码 MIT。两个工作流归各自作者；MiniMax H3 模型遵守 [MiniMax H3 Community License](https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/LICENSE)。换人涉及真人肖像，原片和角色图的版权、肖像权请自己确认，别拿别人的脸做误导性内容。
 
-想写原创剧情片、像 Seedance 一样「提示词 + 参考图」出片，看姊妹仓库 [h3-ref-video](https://github.com/garycaogan/h3-ref-video)。
+想写原创剧情片、像 Seedance 一样「提示词 + 参考图」出片，看姊妹仓库 [h3-ref-video](https://github.com/garycaogan/gary-h3-ref-video)。
